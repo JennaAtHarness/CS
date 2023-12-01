@@ -1,12 +1,12 @@
 ---
 
-# Customer Success Management at [Your Enterprise SaaS Software Company]
+# Customer Success Management at Harness
 
-Welcome to the heart of our customer-centric approach – the Customer Success Management (CSM) hub at [Your Enterprise SaaS Software Company]. Our dedicated CSM team is committed to ensuring your success and maximizing the value you derive from our cutting-edge SaaS solutions.
+Welcome to the heart of our customer-centric approach – the Customer Success Management (CSM) hub at Harness. Our dedicated CSM team is committed to ensuring your success and maximizing the value you derive from our cutting-edge SaaS solutions.
 
 ## Who We Are
 
-At [Your Company], we view our customers as partners in success. The Customer Success Management team is here to guide you through every phase of your journey, helping you achieve your business goals with our innovative SaaS software.
+At Harness, we view our customers as partners in success. The Customer Success Management team is here to guide you through every phase of your journey, helping you achieve your business goals with our innovative SaaS software.
 
 ### What Sets Us Apart
 
@@ -38,7 +38,7 @@ At [Your Company], we view our customers as partners in success. The Customer Su
 
 ## Success Stories
 
-Explore how businesses like yours have achieved remarkable success with [Your Enterprise SaaS Software]:
+Explore how businesses like yours have achieved remarkable success with Harness:
 
 - [Customer Success Story 1]
 - [Customer Success Story 2]
