@@ -1,4 +1,4 @@
-Certainly! Here's the Professional Services SKU Catalog presented in a table format:
+Professional Services SKU Catalog presented in a table format:
 
 | **SKU Code**      | **Service Offering**                       | **Description**                                    | **Duration** | **Price** |
 |-------------------|-------------------------------------------|----------------------------------------------------|--------------|-----------|
