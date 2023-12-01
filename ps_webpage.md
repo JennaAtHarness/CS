@@ -1,5 +1,3 @@
-Certainly! Here's a template for a Professional Services web page that provides an introduction to your enterprise SaaS software company:
-
 ---
 
 # Professional Services at Harness
@@ -8,7 +6,7 @@ Welcome to Harness's Professional Services hub, where excellence meets innovatio
 
 ## Who We Are
 
-At [Your Company], we go beyond delivering software – we empower businesses to thrive in the digital landscape. Our Professional Services team consists of seasoned experts with a passion for driving success. We understand that every business is unique, and that's why our approach is tailored to meet your specific needs.
+At Harness, we go beyond delivering software – we empower businesses to thrive in the digital landscape. Our Professional Services team consists of seasoned experts with a passion for driving success. We understand that every business is unique, and that's why our approach is tailored to meet your specific needs.
 
 ### What Sets Us Apart
 
