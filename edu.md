@@ -4,11 +4,11 @@ Certainly! Here's a template for a DevOps Software Instructor-Led Training Overv
 
 # DevOps Software Instructor-Led Training Overview
 
-Welcome to our DevOps Software Instructor-Led Training, where innovation meets expertise. At [Your Enterprise SaaS Software Company], we believe in empowering your teams with the skills they need to harness the full potential of our cutting-edge DevOps solutions.
+Welcome to our DevOps Software Instructor-Led Training, where innovation meets expertise. At Harness, we believe in empowering your teams with the skills they need to harness the full potential of our cutting-edge DevOps solutions.
 
 ## Who We Are
 
-At [Your Company], we go beyond providing software – we're your partners in success. Our DevOps Software Instructor-Led Training is led by seasoned experts who bring a wealth of industry knowledge and hands-on experience to guide your teams towards mastering our DevOps tools.
+At Harness, we go beyond providing software – we're your partners in success. Our DevOps Software Instructor-Led Training is led by seasoned experts who bring a wealth of industry knowledge and hands-on experience to guide your teams towards mastering our DevOps tools.
 
 ### What Sets Our Training Apart
 
