@@ -1,24 +1,21 @@
 # Education Services at Harness
 
-Welcome to Harness's Professional Services hub, where excellence meets innovation. Our Professional Services team is committed to guiding you through every stage of your journey, ensuring you unlock the full potential of our cutting-edge SaaS solutions.
+Welcome to our DevOps Software Instructor-Led Training, where innovation meets expertise. At Harness, we believe in empowering your teams with the skills they need to harness the full potential of our cutting-edge DevOps solutions.
 
 ## Who We Are
 
-At Harness, we go beyond delivering software – we empower businesses to thrive in the digital landscape. Our Professional Services team consists of seasoned experts with a passion for driving success. We understand that every business is unique, and that's why our approach is tailored to meet your specific needs.
+At Harness, we go beyond providing software – we're your partners in success. Our DevOps Software Instructor-Led Training is led by seasoned experts who bring a wealth of industry knowledge and hands-on experience to guide your teams towards mastering our DevOps tools.
 
-### What Sets Us Apart
+### What Sets Our Training Apart
 
-1. **Customer-Centric Approach:**
-   - Your success is our priority. We work closely with you to understand your goals and challenges, ensuring our services align with your objectives.
+1. **Expert Instructors:**
+   - Learn from industry professionals with extensive experience in DevOps practices and methodologies.
 
-2. **Proven Expertise:**
-   - Benefit from the collective expertise of our Professional Services team. Our specialists bring a wealth of industry knowledge and hands-on experience.
+2. **Hands-On Learning:**
+   - Our training is designed for practical application. Participants engage in real-world scenarios to reinforce their learning.
 
-3. **Customization for Your Business:**
-   - We don't believe in one-size-fits-all solutions. Our Professional Services are designed to be flexible, allowing us to tailor our offerings to suit the unique requirements of your enterprise.
-
-4. **End-to-End Support:**
-   - From implementation and integration to ongoing support, we provide comprehensive services to ensure a seamless experience throughout your journey with our SaaS software.
+3. **Tailored Curriculum:**
+   - We understand that every organization has unique needs. Our training curriculum can be tailored to address the specific challenges and goals of your team.
 
 ## Our Services
 
