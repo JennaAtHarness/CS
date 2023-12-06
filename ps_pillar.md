@@ -22,15 +22,12 @@ At Harness, we go beyond delivering software – we empower businesses to thrive
 
 ## Our Services
 
-| **SKU Code**      | **Service Offering**                       | **Description**                                    | **Duration** | **Price** |
-|-------------------|-------------------------------------------|----------------------------------------------------|--------------|-----------|
-| PS-SKU-001        | Service Offering 1                        | Description of Service Offering 1                   | [Duration]   | $[Price]   |
-| PS-SKU-002        | Service Offering 2                        | Description of Service Offering 2                   | [Duration]   | $[Price]   |
-| PS-SKU-003        | Service Offering 3                        | Description of Service Offering 3                   | [Duration]   | $[Price]   |
-| PS-SKU-004        | Service Offering 4                        | Description of Service Offering 4                   | [Duration]   | $[Price]   |
-| PS-SKU-IMPL-BASIC | Implementation Package - Basic             | Kickstart your journey with our basic implementation | 40 hours     | $[Price]   |
-| PS-SKU-INTEG-ADV  | Integration Mastery - Advanced             | Unlock the full potential with advanced integration | 60 hours     | $[Price]   |
-| PS-SKU-CUST-PRM   | Customization and Configuration - Premium  | Tailor solutions to fit your workflows - Premium     | 80 hours     | $[Price]   |
+| **Service Offering**                       | **Description**                                    | **Duration** | **Price** |
+|-------------------------------------------|----------------------------------------------------|--------------|-----------|
+| Service Offering 1                        | Description of Service Offering 1                   | [Duration]   | $[Price]   |
+| Service Offering 2                        | Description of Service Offering 2                   | [Duration]   | $[Price]   |
+| Service Offering 3                        | Description of Service Offering 3                   | [Duration]   | $[Price]   |
+| Service Offering 4                        | Description of Service Offering 4                   | [Duration]   | $[Price]   |
 
 **How to Purchase:**
 
