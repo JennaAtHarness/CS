@@ -21,7 +21,7 @@ At Harness, we go beyond providing software – we're your partners in success. 
 
 | **Service Offering**                       | **Certifications**                                    | **Duration** | **Price** |
 |-------------------------------------------|----------------------------------------------------|--------------|-----------|
-| [DevOps](Example.com)                      | CI,CD,FF                  | [Duration]   | $[Price]   |
+| [DevOps](Example.com)                      | <ul><li>CI</li><li>CD</li><li>FF</li></ul>                  | [Duration]   | $[Price]   |
 | [DevSecOps](Example.com)                        | CI,CD,STO                  | [Duration]   | $[Price]   |
 | [FinOps](Example.com)                        | CCM                   | [Duration]   | $[Price]   |
 | [Engineering Excellence](Example.com)                        | SEI                 | [Duration]   | $[Price]   |
