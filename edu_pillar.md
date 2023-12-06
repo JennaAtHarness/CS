@@ -21,10 +21,10 @@ At Harness, we go beyond providing software – we're your partners in success. 
 
 | **Service Offering**                       | **Certifications**                                    | **Duration** | **Price** |
 |-------------------------------------------|----------------------------------------------------|--------------|-----------|
-| [DevOps](Example.com)                      | <ul><li>CI</li><li>CD</li><li>FF</li></ul>                  | [Duration]   | $[Price]   |
-| [DevSecOps](Example.com)                        | CI,CD,STO                  | [Duration]   | $[Price]   |
-| [FinOps](Example.com)                        | CCM                   | [Duration]   | $[Price]   |
-| [Engineering Excellence](Example.com)                        | SEI                 | [Duration]   | $[Price]   |
+| [DevOps](Example.com)                      | <ul><li>Continuous Integration</li><li>Continuous Deliver</li><li>Feature Flags</li></ul>                  | [Duration]   | $[Price]   |
+| [DevSecOps](Example.com)                        | <ul><li>Continuous Integration</li><li>Continuous Deliver</li><li>Security Testing Orchestration</li></ul>                  | [Duration]   | $[Price]   |
+| [FinOps](Example.com)                        | <ul><li>Cloud Cost Management</li></ul>                   | [Duration]   | $[Price]   |
+| [Engineering Excellence](Example.com)                        | <ul><li>Software Engineering Insights</li></ul>                 | [Duration]   | $[Price]   |
 
 ## Training Benefits
 
