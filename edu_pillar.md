@@ -29,20 +29,26 @@ At Harness, we go beyond delivering software – we empower businesses to thrive
 | [FinOps (CCM)](Example.com)                        | Description of Service Offering 3                   | [Duration]   | $[Price]   |
 | [Engineering Excellence (SEI)](Example.com)                        | Description of Service Offering 4                   | [Duration]   | $[Price]   |
 
-**How to Purchase:**
+## Training Benefits
 
-1. **Browse Catalog:** Explore our complete catalog of Professional Services offerings.
-2. **Select SKU:** Choose the SKU that aligns with your specific requirements.
-3. **Contact Sales:** Reach out to our Sales team to discuss your selected SKU and finalize the purchase.
+- **Skill Enhancement:**
+  - Equip your teams with the latest DevOps skills and best practices.
 
-**Additional Information:**
+- **Increased Efficiency:**
+  - Implement automation and streamline workflows for faster and more reliable software delivery.
 
-- **Terms and Conditions:** Please review our [Terms and Conditions document] for information on delivery timelines, cancellations, and other important details.
-- **Bulk Purchase Discounts:** Inquire about discounts for bulk purchases or custom service packages tailored to your organization's needs.
-- **Customer Success Stories:** Read success stories from organizations that have benefited from our Professional Services.
+- **Collaborative Culture:**
+  - Foster collaboration between development and operations teams for a more cohesive and efficient work environment.
 
-**Contact Us:**
+## Success Stories
 
-Ready to elevate your experience with our solutions? Contact our Professional Services team today to discuss your unique needs and find the right service offering for you.
+*Discover how organizations have transformed their processes through our DevOps Software Instructor-Led Training:*
+
+- [Success Story 1]
+- [Success Story 2]
+
+## Ready to Transform Your Teams?
+
+Elevate your teams' capabilities with our DevOps Software Instructor-Led Training. Contact our training specialists today to discuss your organization's needs and customize a training plan that aligns with your goals.
 
 **[Contact Us Button]**
