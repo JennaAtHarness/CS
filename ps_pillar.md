@@ -32,14 +32,6 @@ At Harness, we go beyond delivering software – we empower businesses to thrive
 | PS-SKU-INTEG-ADV  | Integration Mastery - Advanced             | Unlock the full potential with advanced integration | 60 hours     | $[Price]   |
 | PS-SKU-CUST-PRM   | Customization and Configuration - Premium  | Tailor solutions to fit your workflows - Premium     | 80 hours     | $[Price]   |
 
-**Featured Service Offerings:**
-
-| **SKU Code**       | **Service Offering**                        | **Description**                                    | **Duration** | **Price** |
-|--------------------|--------------------------------------------|----------------------------------------------------|--------------|-----------|
-| PS-SKU-IMPL-BASIC  | Implementation Package - Basic              | Kickstart your journey with our basic implementation | 40 hours     | $[Price]   |
-| PS-SKU-INTEG-ADV   | Integration Mastery - Advanced              | Unlock the full potential with advanced integration | 60 hours     | $[Price]   |
-| PS-SKU-CUST-PRM    | Customization and Configuration - Premium   | Tailor solutions to fit your workflows - Premium     | 80 hours     | $[Price]   |
-
 **How to Purchase:**
 
 1. **Browse Catalog:** Explore our complete catalog of Professional Services offerings.
