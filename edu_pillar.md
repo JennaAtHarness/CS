@@ -17,14 +17,14 @@ At Harness, we go beyond providing software – we're your partners in success. 
 3. **Tailored Curriculum:**
    - We understand that every organization has unique needs. Our training curriculum can be tailored to address the specific challenges and goals of your team.
 
-## Our Services
+## Course Catalog & Certifications
 
-| **Service Offering**                       | **Description**                                    | **Duration** | **Price** |
+| **Service Offering**                       | **Certifications**                                    | **Duration** | **Price** |
 |-------------------------------------------|----------------------------------------------------|--------------|-----------|
-| [DevOps (CI,CD,FF](Example.com)                      | Description of Service Offering 1                   | [Duration]   | $[Price]   |
-| [DevSecOps (CI,CD,STO](Example.com)                        | Description of Service Offering 2                   | [Duration]   | $[Price]   |
-| [FinOps (CCM)](Example.com)                        | Description of Service Offering 3                   | [Duration]   | $[Price]   |
-| [Engineering Excellence (SEI)](Example.com)                        | Description of Service Offering 4                   | [Duration]   | $[Price]   |
+| [DevOps](Example.com)                      | CI,CD,FF                  | [Duration]   | $[Price]   |
+| [DevSecOps](Example.com)                        | CI,CD,STO                  | [Duration]   | $[Price]   |
+| [FinOps](Example.com)                        | CCM                   | [Duration]   | $[Price]   |
+| [Engineering Excellence](Example.com)                        | SEI                 | [Duration]   | $[Price]   |
 
 ## Training Benefits
 
