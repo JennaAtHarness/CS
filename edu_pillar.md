@@ -21,10 +21,10 @@ At Harness, we go beyond providing software – we're your partners in success. 
 
 | **Service Offering**                       | **Certifications**                                    | **Duration** | **Price** |
 |-------------------------------------------|----------------------------------------------------|--------------|-----------|
-| [DevOps](Example.com)                      | <ul><li>Continuous Integration</li><li>Continuous Deliver</li><li>Feature Flags</li></ul>                  | [Duration]   | $[Price]   |
-| [DevSecOps](Example.com)                        | <ul><li>Continuous Integration</li><li>Continuous Deliver</li><li>Security Testing Orchestration</li></ul>                  | [Duration]   | $[Price]   |
-| [FinOps](Example.com)                        | <ul><li>Cloud Cost Management</li></ul>                   | [Duration]   | $[Price]   |
-| [Engineering Excellence](Example.com)                        | <ul><li>Software Engineering Insights</li></ul>                 | [Duration]   | $[Price]   |
+| [DevOps](Example.com)                      | <ul><li>Continuous Integration</li><li>Continuous Deliver</li><li>Feature Flags</li></ul>                  | 3 Days   | $[Price]   |
+| [DevSecOps](Example.com)                        | <ul><li>Continuous Integration</li><li>Continuous Deliver</li><li>Security Testing Orchestration</li></ul>                  | 3 Days   | $[Price]   |
+| [FinOps](Example.com)                        | <ul><li>Cloud Cost Management</li></ul>                   | 2 Days   | $[Price]   |
+| [Engineering Excellence](Example.com)                        | <ul><li>Software Engineering Insights</li></ul>                 | 2 Days   | $[Price]   |
 
 ## Training Benefits
 
