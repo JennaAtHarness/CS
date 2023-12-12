@@ -24,10 +24,13 @@ At Harness, we go beyond delivering software – we empower businesses to thrive
 
 | **Service Offering**                       | **Description**                                    | **Duration** | **Price** |
 |-------------------------------------------|----------------------------------------------------|--------------|-----------|
-| [FF Standard Accelerator](https://docs.google.com/document/d/10cXpq_KNDu53zCC0-3kR43f9ADghBwRClkPbYfxw6nE/edit#heading=h.cem6w4cyq9y4)                      | Description of Service Offering 1                   | [Duration]   | $[Price]   |
-| [CCM Standard Accelerator](https://docs.google.com/document/d/1636nxKEGQy2QdL4ZbRR1jF_eYaa7c_fsxndewyOVhvM/edit?usp=sharing)                     | Description of Service Offering 2                   | [Duration]   | $[Price]   |
-| Service Offering 3                        | Description of Service Offering 3                   | [Duration]   | $[Price]   |
-| Service Offering 4                        | Description of Service Offering 4                   | [Duration]   | $[Price]   |
+| [FF Standard Accelerator](https://docs.google.com/document/d/10cXpq_KNDu53zCC0-3kR43f9ADghBwRClkPbYfxw6nE/edit?usp=sharing)                      |                  | [Duration]   | $[Price]   |
+| [CCM Standard Accelerator](https://docs.google.com/document/d/1636nxKEGQy2QdL4ZbRR1jF_eYaa7c_fsxndewyOVhvM/edit?usp=sharing)                     |                  | [Duration]   | $[Price]   |
+| [SEI Standard Accelerator](https://docs.google.com/document/d/1dLggR4lQq0P4bksGhQoCaGOD6ocsoA2MVqexaoF9pko/edit?usp=sharing)                        |                 | [Duration]   | $[Price]   |
+| [CI Standard Accelerator](https://docs.google.com/document/d/1aaXQcuPFmzqdhEPIZt12sVVIsK_EYuP0BP4JfaISurg/edit?usp=sharing)                       |                   | [Duration]   | $[Price]   |
+| [CD Standard Accelerator](https://docs.google.com/document/d/1I2rERdGpHZtAYi6GdiEUwR0fA-B_5XUfWt6WL2tLiLA/edit?usp=sharing)                        |^                 | [Duration]   | $[Price]   |
+| [Reference JumpStart](https://docs.google.com/document/d/1G6Q3KO0YsvCCEGQJMQCYwEBTyJ4PydscJPS2Vm77w_s/edit?usp=sharing)                       | Description of Service Offering 4                   | [Duration]   | $[Price]   |
+| [Service Catalog Credits](https://docs.google.com/document/d/1ufFyr2YfAslUcP5mtN-B-mdcB50J4U1-U27juGqCT0E/edit?usp=sharing)                       | Description of Service Offering 4                   | [Duration]   | $[Price]   |
 
 **How to Purchase:**
 
