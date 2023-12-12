@@ -25,7 +25,7 @@ At Harness, we go beyond delivering software – we empower businesses to thrive
 | **Service Offering**                       | **Description**                                    | **Duration** | **Price** |
 |-------------------------------------------|----------------------------------------------------|--------------|-----------|
 | [FF Standard Accelerator](https://docs.google.com/document/d/10cXpq_KNDu53zCC0-3kR43f9ADghBwRClkPbYfxw6nE/edit#heading=h.cem6w4cyq9y4)                      | Description of Service Offering 1                   | [Duration]   | $[Price]   |
-| Service Offering 2                        | Description of Service Offering 2                   | [Duration]   | $[Price]   |
+| [CCM Standard Accelerator](https://docs.google.com/document/d/1636nxKEGQy2QdL4ZbRR1jF_eYaa7c_fsxndewyOVhvM/edit?usp=sharing)                     | Description of Service Offering 2                   | [Duration]   | $[Price]   |
 | Service Offering 3                        | Description of Service Offering 3                   | [Duration]   | $[Price]   |
 | Service Offering 4                        | Description of Service Offering 4                   | [Duration]   | $[Price]   |
 
