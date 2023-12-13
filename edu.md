@@ -1,5 +1,3 @@
-Certainly! Here's a template for a DevOps Software Instructor-Led Training Overview web page for your enterprise SaaS software company:
-
 ---
 
 # DevOps Software Instructor-Led Training Overview
